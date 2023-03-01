@@ -1,14 +1,11 @@
-#include<iostream.h>
-#include<conio.h>
-#include<string.h>
-#include<process.h>
-#include<stdio.h>
-#include<dos.h>
+{
+
+}
 
 void password(void)
 {
 	int counter=0;
-	char username[20];
+	;
 	char password[15];
 	char str[20];
 	fstream user;
